@@ -1,3 +1,6 @@
-# miuul-notes
+# Miuul Data Analytics Bootcamp Notları
 
-# test
+
+
+\#TO DO
+
